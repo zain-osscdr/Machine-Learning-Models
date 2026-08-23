@@ -21,23 +21,15 @@ Machine-Learning-Models/
 ├── Classification Models & Datasets/
 │   ├── Global Student Performance & Lifestyle.ipynb
 │   ├── Stroke Risk Synthetic 2025.ipynb
-│   ├── Student Performance & Teaching Dataset.ipynb
-│   ├── Student_Performance_Teaching_Effectiveness.csv
-│   ├── global_student_lifestyle_academic_performance.csv
-│   └── stroke_dataset.csv
+│   └── Student Performance & Teaching Dataset.ipynb
 │
 ├── Regression Models & Datasets/
 │   ├── Life Expectancy (WHO).ipynb
-│   ├── Life Expectancy Data.csv
 │   ├── Walmart Dataset.ipynb
-│   ├── Walmart.csv
-│   ├── _Medical Cost Personal .ipynb
-│   └── insurance.csv
+│   └── _Medical Cost Personal .ipynb
 │
 ├── ML Project Report.pdf
-│
 └── .gitignore
-
 🧠 Classification Models & Datasets
 1. Global Student Performance & Lifestyle
 
@@ -86,14 +78,11 @@ Dataset: Walmart.csv
 
 This project analyzes Walmart sales data and applies regression techniques to model weekly sales.
 
-The notebook includes regression approaches such as:
+The notebook includes:
 
 Linear Regression
 Decision Tree Regression
 Random Forest Regression
-
-The workflow covers data preparation, model training, prediction, and evaluation.
-
 3. Medical Cost Personal
 
 Notebook: _Medical Cost Personal .ipynb
@@ -105,9 +94,6 @@ This project uses personal medical insurance information for regression analysis
 The objective is to analyze the relationship between available personal and demographic features and medical insurance charges.
 
 🛠️ Technologies
-
-The notebooks use the Python machine learning ecosystem, including:
-
 Python
 Jupyter Notebook
 NumPy
@@ -116,9 +102,6 @@ Matplotlib
 Seaborn
 Scikit-learn
 Joblib
-
-The exact libraries used by each project can be found inside the corresponding notebook.
-
 🔬 Machine Learning Workflow
 
 The projects generally follow this workflow:
@@ -142,9 +125,6 @@ Prediction
 Model Evaluation
    ↓
 Result Analysis
-
-Individual notebooks may contain additional preprocessing and evaluation steps depending on the dataset.
-
 📊 Dataset Overview
 Dataset	Domain	Primary Focus
 Global Student Lifestyle & Academic Performance	Education	Student performance analysis
@@ -175,9 +155,6 @@ ML Project Report.pdf
 The report provides additional information about the machine learning project, methodology, experiments, and implementation.
 
 🎯 Project Goals
-
-The main goals of this repository are to:
-
 Practice practical machine learning workflows
 Work with datasets from different domains
 Understand classification and regression problems
@@ -192,15 +169,3 @@ The datasets and notebooks in this repository are provided for educational and e
 Health-related datasets and models should not be treated as medical or clinical decision-making systems.
 
 Model performance depends on the dataset, preprocessing techniques, selected features, and experimental setup used in each notebook.
-
-📚 Documentation
-
-For detailed project documentation and supporting information, see:
-
-ML Project Report.pdf
-
-👨‍💻 Repository
-
-Machine Learning Models & Datasets
-
-A structured collection of machine learning coursework, experiments, datasets, notebooks, and supporting documentation.
