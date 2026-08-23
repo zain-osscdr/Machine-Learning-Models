@@ -37,7 +37,9 @@ Machine-Learning-Models/
 ├── ML Project Report.pdf
 │
 └── .gitignore
-v🧠 Classification Models & Datasets
+
+
+🧠 Classification Models & Datasets
 1. Global Student Performance & Lifestyle
 
 Notebook: Global Student Performance & Lifestyle.ipynb
